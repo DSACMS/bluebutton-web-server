@@ -189,6 +189,13 @@ Total number of contributors: <!--CONTRIBUTOR COUNT START--> <!--CONTRIBUTOR COU
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/sachin-panayil">
+                    <img src="https://avatars.githubusercontent.com/u/79382140?v=4" width="100;" alt="sachin-panayil"/>
+                    <br />
+                    <sub><b>Sachin Panayil</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/micahtaylor">
                     <img src="https://avatars.githubusercontent.com/u/671894?v=4" width="100;" alt="micahtaylor"/>
                     <br />
@@ -207,13 +214,6 @@ Total number of contributors: <!--CONTRIBUTOR COUNT START--> <!--CONTRIBUTOR COU
                     <img src="https://avatars.githubusercontent.com/u/147522282?v=4" width="100;" alt="aaronerussell"/>
                     <br />
                     <sub><b>Aaron Russell</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/sachin-panayil">
-                    <img src="https://avatars.githubusercontent.com/u/79382140?v=4" width="100;" alt="sachin-panayil"/>
-                    <br />
-                    <sub><b>Sachin Panayil</b></sub>
                 </a>
             </td>
             <td align="center">
