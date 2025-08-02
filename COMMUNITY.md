@@ -43,7 +43,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for more details on the release process.
 
 The Blue Button Web Server project welcomes contributions from developers, healthcare professionals, security experts, and anyone interested in improving healthcare data interoperability. We encourage participation from individuals and organizations working to advance secure, standards-based health data sharing.
 
-Total number of contributors: <!--CONTRIBUTOR COUNT START--> <!--CONTRIBUTOR COUNT END-->
+Total number of contributors: <!--CONTRIBUTOR COUNT START--> 29 <!--CONTRIBUTOR COUNT END-->
 
 <!-- readme: contributors -start -->
 <table>
